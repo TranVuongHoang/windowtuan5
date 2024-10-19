@@ -1,0 +1,15 @@
+C:\Users\edito\source\repos\Entity framwork 3\Entity framwork 3\bin\Debug\Entity framwork 3.exe.config
+C:\Users\edito\source\repos\Entity framwork 3\Entity framwork 3\bin\Debug\Entity framwork 3.exe
+C:\Users\edito\source\repos\Entity framwork 3\Entity framwork 3\bin\Debug\Entity framwork 3.pdb
+C:\Users\edito\source\repos\Entity framwork 3\Entity framwork 3\bin\Debug\EntityFramework.dll
+C:\Users\edito\source\repos\Entity framwork 3\Entity framwork 3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\edito\source\repos\Entity framwork 3\Entity framwork 3\bin\Debug\EntityFramework.xml
+C:\Users\edito\source\repos\Entity framwork 3\Entity framwork 3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\edito\source\repos\Entity framwork 3\Entity framwork 3\obj\Debug\Entity framwork 3.csproj.AssemblyReference.cache
+C:\Users\edito\source\repos\Entity framwork 3\Entity framwork 3\obj\Debug\Entity_framwork_3.Form1.resources
+C:\Users\edito\source\repos\Entity framwork 3\Entity framwork 3\obj\Debug\Entity_framwork_3.Properties.Resources.resources
+C:\Users\edito\source\repos\Entity framwork 3\Entity framwork 3\obj\Debug\Entity framwork 3.csproj.GenerateResource.cache
+C:\Users\edito\source\repos\Entity framwork 3\Entity framwork 3\obj\Debug\Entity framwork 3.csproj.CoreCompileInputs.cache
+C:\Users\edito\source\repos\Entity framwork 3\Entity framwork 3\obj\Debug\Entity f.0DBF3979.Up2Date
+C:\Users\edito\source\repos\Entity framwork 3\Entity framwork 3\obj\Debug\Entity framwork 3.exe
+C:\Users\edito\source\repos\Entity framwork 3\Entity framwork 3\obj\Debug\Entity framwork 3.pdb

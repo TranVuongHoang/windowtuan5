@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edito\\source\\repos\\Entity framwork 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2F224F-0C16-4C50-A5D5-297D06DAE8FF}|Entity framwork 3\\Entity framwork 3.csproj|C:\\Users\\edito\\source\\repos\\Entity framwork 3\\entity framwork 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE2F224F-0C16-4C50-A5D5-297D06DAE8FF}|Entity framwork 3\\Entity framwork 3.csproj|solutionrelative:entity framwork 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2F224F-0C16-4C50-A5D5-297D06DAE8FF}|Entity framwork 3\\Entity framwork 3.csproj|C:\\Users\\edito\\source\\repos\\Entity framwork 3\\entity framwork 3\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2F224F-0C16-4C50-A5D5-297D06DAE8FF}|Entity framwork 3\\Entity framwork 3.csproj|solutionrelative:entity framwork 3\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2F224F-0C16-4C50-A5D5-297D06DAE8FF}|Entity framwork 3\\Entity framwork 3.csproj|c:\\users\\edito\\source\\repos\\entity framwork 3\\entity framwork 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2F224F-0C16-4C50-A5D5-297D06DAE8FF}|Entity framwork 3\\Entity framwork 3.csproj|solutionrelative:entity framwork 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\edito\\source\\repos\\Entity framwork 3\\Entity framwork 3\\Form1.cs",
+              "RelativeDocumentMoniker": "Entity framwork 3\\Form1.cs",
+              "ToolTip": "C:\\Users\\edito\\source\\repos\\Entity framwork 3\\Entity framwork 3\\Form1.cs [Design]*",
+              "RelativeToolTip": "Entity framwork 3\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:01:11.3Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\edito\\source\\repos\\Entity framwork 3\\Entity framwork 3\\Form1.cs",
+              "RelativeDocumentMoniker": "Entity framwork 3\\Form1.cs",
+              "ToolTip": "C:\\Users\\edito\\source\\repos\\Entity framwork 3\\Entity framwork 3\\Form1.cs*",
+              "RelativeToolTip": "Entity framwork 3\\Form1.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:01:38.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\edito\\source\\repos\\Entity framwork 3\\Entity framwork 3\\Model1.cs",
+              "RelativeDocumentMoniker": "Entity framwork 3\\Model1.cs",
+              "ToolTip": "C:\\Users\\edito\\source\\repos\\Entity framwork 3\\Entity framwork 3\\Model1.cs",
+              "RelativeToolTip": "Entity framwork 3\\Model1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:02:08.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
